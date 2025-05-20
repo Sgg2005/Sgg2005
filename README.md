@@ -1,4 +1,4 @@
-<h1> align="center">Hello 👋, I'm Simon Getachew Girma</h1>
+<h1 align="center">Hello 👋, I'm Simon Getachew Girma</h1>
 <h3 align="center">I am a committed Computer Science student with fluency in English and a working proficiency in Amharic, with a strong interest in Cyber Security. I possess knowledge and practical experience in Python, HTML, CSS, Java, JavaScript, and C.</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, and C**
