@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, and C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sgg2005](https://github.com/Sgg2005)
+- 👨‍💻 All of my projects are available at **[https://github.com/Sgg2005](https://github.com/Sgg2005)**
 
 - 💬 Ask me about **Python, HTML, CSS**
 
 - 📫 How to reach me **girmasimon95@gmail.com**
 
-- 📄 Know about my experiences [https://girma.netlify.app/](**https://girma.netlify.app/**)
+- 📄 Know about my experiences **[https://girma.netlify.app/](https://girma.netlify.app/)**
 
 - ⚡ Fun fact **I am a quick learner with well developed communication and collaboration skills. In my spare time, I enjoy playing football, reading, learning new languages.**
 
