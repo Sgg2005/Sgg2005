@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **girmasimon95@gmail.com**
 
-- 📄 Know about my experiences **[https://girma.netlify.app/](https://girma.netlify.app/)**
+- 📄 Know about my experiences **[https://simongirma.netlify.app/](https://simongirma.netlify.app/)**
 
 - ⚡ Fun fact **I am a quick learner with well developed communication and collaboration skills. In my spare time, I enjoy playing football, reading, learning new languages.**
 
