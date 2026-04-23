@@ -16,8 +16,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sgg2005&label=Profile%20Views&color=6366f1&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Sgg2005?label=Followers&style=social)
+
 
 </div>
 
@@ -29,7 +28,7 @@
 
 ```yaml
 name: Simon Getachew Girma
-location: United Kingdom 🇬🇧
+location: Dubai, UAE 🇦🇪
 education: Computer Science Student
 languages: English (fluent), Amharic (working)
 
