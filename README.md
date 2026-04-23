@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Simon+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%8C%B1)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Simon+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%8C%B1)
 
 <br/>
 
@@ -17,7 +17,7 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sgg2005&label=Profile%20Views&color=6366f1&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Sgg2005?label=Followers&style=social)](https://github.com/Sgg2005)
+![GitHub followers](https://img.shields.io/github/followers/Sgg2005?label=Followers&style=social)
 
 </div>
 
@@ -99,14 +99,6 @@ hobbies:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sgg2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff&border_radius=10" width="40%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sgg2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
